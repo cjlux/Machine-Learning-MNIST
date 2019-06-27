@@ -15,8 +15,8 @@ Les principaux points abordés sont :
 - exploitation du réseau avec ses propres images de chiffres manuscrits.
 
 Deux fichiers *Jupyter notebook* (*alias* "Cahiers IPIthon") sont proposés :
-- `TP_MNIS_Keras.ipynb` : le cahier *à trous* pour travailler les points évoqués ci-dessus,
-- `TP_MNIS_Keras_soluce.ipynb` : le cahier complet avec toutes les réponses.
+- `TP_MNIS_Keras_dense.ipynb` : le cahier *à trous* pour travailler les points évoqués ci-dessus,
+- `TP_MNIS_Keras_dense-soluce.ipynb` : le cahier complet avec toutes les réponses.
 
 Deux répertoires sont présents :
 - `figures` : contient les figures, ou les ressources utilisées pour produire les figures, utilisées dans les cahier IPython,
