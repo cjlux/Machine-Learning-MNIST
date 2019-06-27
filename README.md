@@ -1,5 +1,5 @@
-# TP Machine Learning :
-# reconnaissance de chiffres manuscrits de la banque MNIS avec un réseau de neurone construit avec Keras/TensorFlow
+# TP IA/Machine Learning :
+# Reconnaissance de chiffres manuscrits par réseau de neurone construit avec Keras/TensorFlow, entraîné avec la banque MNIS
 
 Cette activité propose la découverte de la conception, de l'entrainement et de l'utilisation d'un réseau de neurones dédié à la reconnaissance de chiffres écrits à la main.
 
