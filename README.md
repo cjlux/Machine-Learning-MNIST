@@ -5,7 +5,7 @@ Cette activité propose la découverte de la conception, de l'entrainement et de
 Les principaux points abordés sont :
 - neurone artificiel,
 - réseau de neurones,
-- fonction d'cativation,
+- fonction d'activation,
 - construction d'un réseau de neurones dense en Python avec Keras-TensorFlow,
 - téléchargement et visualisation des images MNIST (banque d'images de chiffres manuscrits),
 - préparation des données (images) pour entraÎner le réseau de neurones,
