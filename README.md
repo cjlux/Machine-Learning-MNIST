@@ -1,4 +1,7 @@
 # TP Machine Learning avec Keras/Tensorflow
+
+<img src='./figures/CC-BY-SA.jpeg' width=100 style="vertical-align:middle; float:left"> &ensp; Jean-Luc Charles, &emsp; Jean-Luc.Charles@ensam.eu
+
 ## Conception/entraînement/utilisation d'un réseau de neurones dédié à la reconnaissance de chiffres manuscrits.
 
 Cette activité propose la découverte de la conception, de l'entraînement et de l'utilisation d'un réseau de neurones dédié à la reconnaissance de chiffres écrits à la main.
@@ -23,4 +26,3 @@ Deux répertoires sont présents :
 - `chiffres` : contient des images représentants des chiffres écrits écrits à la main, hors banque MNIST.
 
 
-<img src='./figures/CC-BY-SA.jpeg' width=100 style="vertical-align:middle; float:left"> &ensp; Jean-Luc Charles, &emsp; Jean-Luc.Charles@ensam.eu
