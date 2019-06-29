@@ -21,3 +21,5 @@ Deux fichiers *Jupyter notebook* (*alias* "Cahiers IPIthon") sont proposés :
 Deux répertoires sont présents :
 - `figures` : contient les figures, ou les ressources utilisées pour produire les figures, utilisées dans les cahier IPython,
 - `chiffres` : contient des images représentants des chiffres écrits écrits à la main, hors banque MNIST.
+
+<img src='./figures/CC-BY-SA.jpeg' width=100 style="vertical-align:middle; float:left"> &ensp; Jean-Luc Charles, &emsp; Jean-Luc.Charles@ensam.eu
