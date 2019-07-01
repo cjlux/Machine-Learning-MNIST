@@ -25,6 +25,11 @@ Deux fichiers *Jupyter notebook* (*alias* "Cahiers IPIthon") sont proposés :
 - `TP_MNIS_Keras_dense.ipynb` : le cahier *à trous* pour travailler les points évoqués ci-dessus,
 - `TP_MNIS_Keras_dense-soluce.ipynb` : le cahier complet avec toutes les réponses.
 
+# Acquis d'apprentissage
+
+À l'issue de cette activité, vous saurez :
+- comment télécharger les images de la banque MNIST avec le module Python Keras.
+- comment développer et évaluer un réseau de neurone dense dédié à la reconnaissance des images MNIST.
 
 Deux répertoires sont présents :
 - `figures` : contient les figures, ou les ressources utilisées pour produire les figures, utilisées dans les cahier IPython,
