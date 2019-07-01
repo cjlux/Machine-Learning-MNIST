@@ -40,6 +40,6 @@ Cahiers IPYthon en cours de finition :
 ## Autres ressources
 
 - répertoire `figures` : contient les figures (ou les sources pour produire les figures) utilisées dans les cahier IPython,
-- répertoire `chiffres` : contient des images représentants des chiffres écrits écrits à la main, hors banque MNIST.
+- répertoire `chiffres` : contient des images représentant des chiffres écrits à la main, hors banque MNIST.
 
 
