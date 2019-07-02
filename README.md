@@ -23,7 +23,7 @@ Les principaux points abordés dans ce TP sont :
 
 # Cahiers IPython proposés
 
-Deux fichiers *Jupyter notebook* (*alias* "Cahiers IPIthon") sont proposés :
+Deux fichiers *cahiers IPython* (aka *Jupyter notebook* ou *notebook IPython*) sont proposés :
 - `TP_MNIS_Keras_dense.ipynb` : le cahier *à trous* pour travailler avec un simple réseau dense,
 - `TP_MNIS_Keras_dense-soluce.ipynb` : le cahier complet avec toutes les réponses.
 
