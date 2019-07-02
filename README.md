@@ -45,6 +45,6 @@ Deux fichiers *cahiers IPython* (aka *Jupyter notebook* ou *notebook IPython*) s
 
 - répertoire `figures` : contient les figures (ou les sources pour produire les figures) utilisées dans les cahier IPython,
 - répertoire `chiffres` : contient des images représentant des chiffres écrits à la main, hors banque MNIST.
-- répertoire `util_python` : contient des programmes Python utiles...
-		`activFunctions.py` : trace les figures de quelques fonctions d'activations couramment utilisées.
+- répertoire `util_python` : contient des programmes Python utiles...<br/>
+		`activFunctions.py` : trace les figures de quelques fonctions d'activation couramment utilisées.
 
