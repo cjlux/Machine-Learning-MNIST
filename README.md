@@ -1,6 +1,13 @@
 # TP Machine Learning avec Keras/Tensorflow
 
-<img src='./figures/CC-BY-SA.jpeg' width=100 style="vertical-align:middle; float:left"> &ensp; Jean-Luc Charles, &emsp; Jean-Luc.Charles@ensam.eu
+<img src='./figures/CC-BY-SA.jpeg' width=100 style="vertical-align:middle; float:left"> &emsp; jean-luc.charles@ensam.eu 
+
+### Versions
+
+| version | date | commentaire |
+| --- | --- | --- | 
+| v1.0 | 2019-07-02 | Version initiale / Réseau dense |
+  
 
 Ce TP est utilisé pour les séances d'Informatique des étudiants de 2me année du Bachelor de technologie de l'ENSAM de Talence.
 
