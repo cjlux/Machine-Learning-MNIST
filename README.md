@@ -7,7 +7,7 @@
 | version | date | commentaire |
 | --- | --- | --- | 
 | v1.0 | 2019-07-02 | Version initiale / Réseau dense |
-  
+| v1.0 | 2019-07-02 | Consolidation des versions keras=2.2.4, tensorflow=1.13.1, numpy=16.1  |  
 
 Ce TP est utilisé pour les séances d'Informatique des étudiants de 2me année du Bachelor de technologie de l'ENSAM de Talence.
 
