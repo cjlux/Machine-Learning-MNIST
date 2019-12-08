@@ -13,9 +13,9 @@ Ce TP est utilisé pour les séances d'Informatique des étudiants de 2me année
 
 Les activités présentées sont initialement inspirées du travail de Jason Brownlee : Handwritten Digit Recognition using Convolutional Neural Networks in Python with Keras publié en juin 2016 à l'adresse https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
 
-## Conception/entraînement/évaluation d'un réseau de neurones dédié à la reconnaissance de chiffres manuscrits.
+## Programmation/entraînement/évaluation d'un réseau de neurones dédié à la reconnaissance de chiffres manuscrits.
 
-Cette activité propose la découverte de la conception, de l'entraînement et de l'évaluation d'un réseau de neurones dédié à la reconnaissance de chiffres écrits à la main.
+Cette activité propose la découverte de la programmation, de l'entraînement et de l'évaluation d'un réseau de neurones dédié à la reconnaissance de chiffres écrits à la main.
 
 Les principaux points abordés dans ce TP sont :
 - neurone artificiel,
@@ -37,9 +37,9 @@ Deux *cahiers IPython* (aka *Jupyter notebook* ou *notebook IPython*) sont propo
 # Acquis d'apprentissage
 
 À l'issue de cette activité, vous saurez :
-- comment télécharger les images de la banque MNIST avec le module Python Keras.
-- comment développer et évaluer un réseau de neurone dense dédié à la reconnaissance des images MNIST.
-- comment utiliser vos propres images de chiffres pour évaluer les réponse d'un réseau entraîné avec la banque MNIST.
+- télécharger les images de la banque MNIST avec le module Python Keras.
+- développer et évaluer un réseau de neurone dense dédié à la reconnaissance des images MNIST.
+- utiliser vos propres images de chiffres pour évaluer les réponse d'un réseau entraîné avec la banque MNIST.
 
 ## Autres ressources
 
