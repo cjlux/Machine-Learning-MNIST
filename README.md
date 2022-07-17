@@ -8,6 +8,7 @@
 | --- | --- | --- | 
 | v1.0 | 2019-07-02 | Version initiale / Réseau dense |
 | v1.0 | 2019-07-02 | Consolidation des versions keras=2.2.4, tensorflow=1.13.1, numpy=16.1  |  
+| v2.0 | 2022-07-17 | Tensorflow 2  |  
 
 Ce TP est utilisé pour les séances d'Informatique des étudiants de 2me année du Bachelor de technologie de l'ENSAM de Talence.
 
@@ -21,16 +22,16 @@ Les principaux points abordés dans ce TP sont :
 - neurone artificiel,
 - réseau de neurones,
 - fonction d'activation,
-- construction d'un réseau de neurones dense en Python avec Keras/tensorFlow,
+- construction d'un réseau de neurones dense en Python avec tensorFlow/keras,
 - téléchargement et visualisation des images MNIST (banque d'images de chiffres manuscrits),
 - préparation des données (images) pour entraÎner le réseau de neurones,
 - entraînement du réseau,
 - courbes de précision et de perte du réseau,
-- exploitation du réseau avec des chiffres manuscrits hors banque MNIST.
+- exploitation du réseau avec des chiffres manuscrits personnalisés.
 
 # Cahiers IPython proposés
 
-Deux *cahiers IPython* (aka *Jupyter notebook* ou *notebook IPython*) sont proposés :
+Deux *cahiers IPython* (aka *Jupyter notebook*) sont proposés :
 - `TP_MNIS_Keras_dense.ipynb` : le cahier *à trous* pour travailler avec un simple réseau dense,
 - `TP_MNIS_Keras_dense-soluce.ipynb` : le cahier complet avec toutes les réponses.
 
@@ -38,8 +39,8 @@ Deux *cahiers IPython* (aka *Jupyter notebook* ou *notebook IPython*) sont propo
 
 À l'issue de cette activité, vous saurez :
 - télécharger les images de la banque MNIST avec le module Python Keras.
-- développer et évaluer un réseau de neurone dense dédié à la reconnaissance des images MNIST.
-- utiliser vos propres images de chiffres pour évaluer les réponse d'un réseau entraîné avec la banque MNIST.
+- construire/évaluer avec le module tensorflow/keras un réseau de neurone dense dédié à la reconnaissance des images MNIST, 
+- utiliser vos propres images de chiffres pour évaluer les réponse d'un réseau entraîné avec la banque d'images du MNIST.
 
 ## Autres ressources
 
